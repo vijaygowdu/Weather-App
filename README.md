@@ -3,7 +3,7 @@
 ## Reg No : 212223040236
 ## Dtae : 19/04/2025
 ## Program :
-# App.js:
+### App.js:
 ```
 import React, { useState } from 'react';
 import './App.css';
@@ -61,7 +61,7 @@ function WeatherApp() {
 
 export default WeatherApp;
 ```
-# App.css:
+### App.css:
 ```
 body {
   background: linear-gradient(to right, #74ebd5, #ACB6E5);
